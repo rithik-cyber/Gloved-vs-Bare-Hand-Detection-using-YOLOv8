@@ -1,0 +1,12 @@
+# Ignore model weights, outputs, logs, and cache
+*.pt
+*.log
+*.tmp
+*.DS_Store
+__pycache__/
+runs/
+results/
+logs/
+output/
+input/
+data/
