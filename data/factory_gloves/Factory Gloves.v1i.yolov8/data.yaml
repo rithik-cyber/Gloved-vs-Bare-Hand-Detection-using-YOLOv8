@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Gloves', 'No_Gloves']
+
+roboflow:
+  workspace: test-txpf5
+  project: factory-gloves
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-txpf5/factory-gloves/dataset/1

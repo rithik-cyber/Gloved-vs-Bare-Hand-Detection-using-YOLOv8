@@ -1,0 +1,15 @@
+{
+    "filename": "nglovpp38_jpg.rf.870ca6d5b7d05dd1bd0f0fa1e930b7b4.jpg",
+    "detections": [
+        {
+            "label": "bare_hand",
+            "confidence": 0.294,
+            "bbox": [
+                3.43,
+                94.47,
+                254.5,
+                301.33
+            ]
+        }
+    ]
+}

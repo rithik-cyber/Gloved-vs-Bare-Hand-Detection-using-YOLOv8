@@ -1,0 +1,14 @@
+# Gloved vs Bare Hand Detection Dataset
+# Final merged version (Roboflow + Kaggle + Manual)
+
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 2
+names: ['Gloves', 'No_Gloves']
+
+roboflow:
+  source1: "F:\\glove_detection_project\\data\\merged_glove_dataset"
+  source2: "F:\\factory_gloves\\Factory Gloves.v1i.yolov8"
+  note: "Merged dataset for YOLOv8 glove detection project"
